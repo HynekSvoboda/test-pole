@@ -1,0 +1,10 @@
+G:\test pole\test pole\bin\Debug\test pole.exe.config
+G:\test pole\test pole\bin\Debug\test pole.exe
+G:\test pole\test pole\bin\Debug\test pole.pdb
+G:\test pole\test pole\obj\Debug\test_pole.Form1.resources
+G:\test pole\test pole\obj\Debug\test_pole.Properties.Resources.resources
+G:\test pole\test pole\obj\Debug\test pole.csproj.GenerateResource.cache
+G:\test pole\test pole\obj\Debug\test pole.csproj.CoreCompileInputs.cache
+G:\test pole\test pole\obj\Debug\test pole.exe
+G:\test pole\test pole\obj\Debug\test pole.pdb
+G:\test pole\test pole\obj\Debug\test pole.csprojAssemblyReference.cache
